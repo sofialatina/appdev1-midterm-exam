@@ -896,7 +896,6 @@ Banner Style
   background-size: cover;
   padding: 250px 120px 150px 120px;
   position: relative;
-  overflow: hidden;
 }
 
 .main-banner:after {
@@ -969,6 +968,7 @@ Services Style
   margin-top: 10px;
   margin-left: 18%;
   margin-right: 18%;
+  overflow: hidden;
 }
 
 .services .container-fluid {
@@ -1099,6 +1099,7 @@ About Us
 .about-us {
   padding-top: 130px;
   position: relative;
+  overflow: hidden;
 }
 
 .about-us .section-heading {
