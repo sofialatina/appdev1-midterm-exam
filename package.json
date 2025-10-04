@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://sofialatina.github.io/appdev1-midterm-exam/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -27,10 +28,4 @@
     "globals": "^16.4.0",
     "vite": "^7.1.7"
   }
-}
-
-{
-...,
-"homepage": "https://sofialatina.github.io/appdev1-midterm-exam/",
-...,
 }
